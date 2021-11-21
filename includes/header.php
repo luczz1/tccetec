@@ -22,8 +22,8 @@
         <p class="lead mb-4 text-center">O objetivo desse site é promover o estudo e o ensino. Com a pandemia, aprender se tornou um desafio, então o projeto desse site é justamente facilitar os estudos permitindo que
           os professores possam dar aulas e os alunos possam ter aulas, gratuitamente.</p>
           <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-          <a href="/tccetec/registration/register.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">Criar conta</button></a>
-          <a href="/tccetec/registration/login.php"> <button type="button" class="btn btn-outline-secondary btn-lg px-4">Fazer login</button></a>
+          <a href="../../registration/register.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">Criar conta</button></a>
+          <a href="../../registration/login.php"> <button type="button" class="btn btn-outline-secondary btn-lg px-4">Fazer login</button></a>
         </div>
       </div>
     </div>
